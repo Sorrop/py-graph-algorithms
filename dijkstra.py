@@ -1,4 +1,4 @@
-from PriorityQueue import PriorityQueue
+from priorityQueue import PriorityQueue
 import math
 
 
